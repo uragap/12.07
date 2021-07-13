@@ -1,6 +1,6 @@
 ball:
   - between
-  - [[[important, false, movement], cake, false], false, when, nails, port]
+  - [[[important, false, movement, bare, true, true, climate, again, false, true], cake, false, false, nice, false, true, false, false, quick], false, when, nails, port, true, band, true, true, false]
   - according
   - true
   - false
@@ -11,3 +11,10 @@ ball:
   - attack
 right: false
 remain: grew
+creature: roll
+smooth: false
+tight: true
+stuck: science
+political: electric
+themselves: quiet
+red: willing
