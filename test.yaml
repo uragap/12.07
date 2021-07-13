@@ -1,6 +1,6 @@
 ball:
   - between
-  - [[[important, false, movement, bare, true, true, climate, again, false, true], cake, false, false, nice, false, true, false, false, quick], false, when, nails, port, true, band, true, true, false]
+  - [[[important, false, movement], cake, false], false, when, nails, port]
   - according
   - true
   - false
@@ -9,3 +9,5 @@ ball:
   - victory
   - false
   - attack
+right: false
+remain: grew
